@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **bochra.mira@ensia.edu**
+- 📫 How to reach me **bochra.mira@ensia.edu.dz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
