@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bochra Mira</h1>
 <h3 align="center">A passionate AI student and also a skilled app developer.</h3>
 
