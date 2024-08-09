@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/ai-tech-using-internet-connect-chatgpt-chat-with-ai-artificial-intelligence-generate-content_35148-8387.jpg?size=626&ext=jpg)]
+
 <h1 align="center">Hi 👋, I'm Bochra Mira</h1>
 <h3 align="center">A passionate AI student and also a skilled app developer.</h3>
 
