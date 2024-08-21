@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/ai-tech-using-internet-connect-chatgpt-chat-with-ai-artificial-intelligence-generate-content_35148-8387.jpg?size=626&ext=jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bochramira&label=Profile%20views&color=0e75b6&style=flat" alt="bochramira" /> </p>
 
-- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Flutter**
 
