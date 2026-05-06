@@ -22,10 +22,15 @@
 ---
 
 ### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CVAT-Annotation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roboflow-Computer%20Vision-orange?style=for-the-badge" />
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,flutter,dart,android,kotlin,linux,mongodb,mysql,git,html,css" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
